@@ -1,0 +1,236 @@
+Name: [write your name here]
+
+
+Sorting Efficiency Lab
+www.sorting-algorithms.com
+
+•  Click on [refresh icon] to restart the animations in a row, a column, or the entire table. 
+•  Click directly on an animation image to start or restart it.
+
+Use the website to experiment with different sorting algorithms and to answer the following questions:
+
+
+0.	Ideal sorting algorithms 
+What five properties do ideal sorting algorithms have?
+a)	
+
+b)	
+
+c)	
+
+d)	
+
+e)	
+
+
+1.	Selection Sort
+
+a)	For which of the four situations (random, nearly sorted, reversed, few unique) is Selection Sort most efficient? Explain why.
+
+
+
+b)	How does changing the problem size affect each of the four situations? 
+
+
+
+c)	How does the Selection Sort algorithm work? Explain.
+
+
+
+d)	What do you see in the animation that helps you identify that the animation is showing Selection Sort?
+
+
+
+e)	How much extra space is needed for the Selection Sort algorithm? Is this efficient use of space?
+
+
+
+f)	How much time does Selection Sort take? Use Big O notation.
+
+
+
+g)	What are the advantages of Selection Sort?
+
+
+
+h)	What are the disadvantages of Selection Sort?
+
+
+
+2.	Insertion Sort
+
+a)	For which of the four situations is Insertion Sort most efficient? Explain why.
+
+
+
+b)	For which of the four situations is Insertion Sort least efficient? Explain why.
+
+
+
+c)	How does changing the problem size affect each of the four situations?
+
+
+
+d)	How does the Insertion Sort algorithm work? Explain.
+
+
+
+e)	What do you see in the animation that helps you identify that the animation is showing Insertion Sort?
+
+
+
+f)	How much extra space is needed for the Insertion Sort algorithm? Is this efficient use of space?
+
+
+
+g)	How much time does Insertion Sort take? Use Big O notation.
+
+
+
+h)	What are the advantages of Insertion Sort?
+
+
+
+i)	What are the disadvantages of Insertion Sort?
+
+
+
+3.	Merge Sort
+
+a)	For which of the four situations is Merge Sort most efficient? Explain why.
+
+
+
+b)	How does changing the problem size affect each of the four situations?
+
+
+
+c)	How does the Merge Sort algorithm work? Explain.
+
+
+
+d)	What do you see in the animation that helps you identify that the animation is showing Merge Sort?
+
+
+
+e)	How much extra space is needed for the Merge Sort algorithm (using arrays)? Is this efficient use of space?
+
+
+
+f)	How much time does Merge Sort take? Use Big O notation.
+
+
+
+g)	What are the advantages of Merge Sort?
+
+
+
+h)	What are the disadvantages of Merge Sort?
+
+
+
+4.	Sorting Algorithm Comparisons
+
+a)	For the random situations, which of the three algorithms (selection, insertion, or merge sort) is the fastest? Why? 
+
+
+
+b)	For the random situations, is selection sort slower or is insertion sort slower? Is it significantly slower or only a few lines slower?
+
+
+
+c)	For the nearly sorted situations, which of the three algorithms is the fastest? Why? 
+
+
+
+d)	For the nearly sorted situations, how does selection sort do compared with the other sorting algorithms? 
+
+
+
+e)	For the reversed situations, is selection sort slower or is insertion sort slower? Is it significantly slower or only a few lines slower?
+
+
+
+f)	Does having only a few unique keys speed up any of the three algorithms? Is so, how much faster is it?
+
+
+
+g)	In what case(s) would you use Selection Sort over the other two sorting algorithms?
+
+
+
+h)	In what case(s) would you use Insertion Sort over the other two sorting algorithms?
+
+
+
+i)	In what case(s) would you use Merge Sort over the other two sorting algorithms?
+
+
+
+Challenge Questions:
+
+Bubble Sort
+a)	For which of the four situations is Bubble Sort most efficient? Explain why.
+
+
+
+b)	How does changing the problem size affect each of the four situations?
+
+
+
+c)	How does the Bubble Sort algorithm work? Explain.
+
+
+
+d)	What do you see in the animation that helps you identify that the animation is showing Bubble Sort?
+
+
+
+e)	How much extra space is needed for the Bubble Sort algorithm (using arrays)? Is this efficient use of space?
+
+
+
+f)	How much time does Bubble Sort take? Use Big O notation.
+
+
+
+g)	What are the advantages of Bubble Sort?
+
+
+
+h)	What are the disadvantages of Bubble Sort?
+
+
+
+
+Quick Sort
+a)	For which of the four situations is Quick Sort most efficient? Explain why.
+
+
+
+b)	How does changing the problem size affect each of the four situations?
+
+
+
+c)	How does the Quick Sort algorithm work? Explain.
+
+
+
+d)	What do you see in the animation that helps you identify that the animation is showing Quick Sort?
+
+
+
+e)	How much extra space is needed for the Quick Sort algorithm (using arrays)? Is this efficient use of space?
+
+
+
+f)	How much time does Quick Sort take? Use Big O notation.
+
+
+
+g)	What are the advantages of Quick Sort?
+
+
+
+h)	What are the disadvantages of Quick Sort?
+
