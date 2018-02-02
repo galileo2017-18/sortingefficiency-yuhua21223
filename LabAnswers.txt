@@ -1,4 +1,4 @@
-Name: [write your name here]
+Name: [Yuhua Wu]
 
 
 Sorting Efficiency Lab
@@ -11,159 +11,171 @@ Use the website to experiment with different sorting algorithms and to answer th
 
 
 0.	Ideal sorting algorithms 
-What five properties do ideal sorting algorithms have?
-a)	
 
-b)	
-
-c)	
-
-d)	
-
-e)	
+a) Stable: Equal keys aren’t reordered.
+b) Operates in place, requiring O(1) extra space.
+C) Worst-case O(n·lg(n)) key comparisons.
+d) Worst-case O(n) swaps.
+e) Adaptive: Speeds up to O(n) when data is nearly sorted or when there are few unique keys.
 
 
 1.	Selection Sort
 
 a)	For which of the four situations (random, nearly sorted, reversed, few unique) is Selection Sort most efficient? Explain why.
 
-
+They all are the same
 
 b)	How does changing the problem size affect each of the four situations? 
 
+little differences
 
 
 c)	How does the Selection Sort algorithm work? Explain.
 
+It select 01 and it out put.                    
 
 
 d)	What do you see in the animation that helps you identify that the animation is showing Selection Sort?
 
-
+The way teh arrow move
 
 e)	How much extra space is needed for the Selection Sort algorithm? Is this efficient use of space?
 
 
-
+it is not so efficient because of space
 f)	How much time does Selection Sort take? Use Big O notation.
 
-
+Real time memory limited application with small data inputs
 
 g)	What are the advantages of Selection Sort?
 
-
+Extra Space
+Swaps
 
 h)	What are the disadvantages of Selection Sort?
 
-
+not stable
+O(n^2) comparisons
+Not adaptive
 
 2.	Insertion Sort
 
 a)	For which of the four situations is Insertion Sort most efficient? Explain why.
 
-
+Insertion sort is okay
 
 b)	For which of the four situations is Insertion Sort least efficient? Explain why.
 
-
+It just is, because swap is useful
 
 c)	How does changing the problem size affect each of the four situations?
 
-
+the smalled the fast
 
 d)	How does the Insertion Sort algorithm work? Explain.
 
-
+not much difference how ever very little diffrence
 
 e)	What do you see in the animation that helps you identify that the animation is showing Insertion Sort?
 
-
+I see the speed it is altered
 
 f)	How much extra space is needed for the Insertion Sort algorithm? Is this efficient use of space?
 
-
+Not space is needed
 
 g)	How much time does Insertion Sort take? Use Big O notation.
 
-
+In place and adaptive good for small, mostly sorted arrays 
 
 h)	What are the advantages of Insertion Sort?
 
+stable
+)(1) extra space
+Adaptive when nearly sorted
 
 
 i)	What are the disadvantages of Insertion Sort?
 
-
+comparisons and swaps
 
 3.	Merge Sort
 
 a)	For which of the four situations is Merge Sort most efficient? Explain why.
 
+During a high level of datas
 
 
 b)	How does changing the problem size affect each of the four situations?
 
-
+The size does make it slower
 
 c)	How does the Merge Sort algorithm work? Explain.
 
-
+Not too big of a diffrence
 
 d)	What do you see in the animation that helps you identify that the animation is showing Merge Sort?
 
+We see the diffrences by loking at the middle element
 
 
 e)	How much extra space is needed for the Merge Sort algorithm (using arrays)? Is this efficient use of space?
 
-
+aThere are many space
 
 f)	How much time does Merge Sort take? Use Big O notation.
 
+It takes a whilebut hwoever slower
 
 
 g)	What are the advantages of Merge Sort?
 
-
+Stable
+O(n log n)time
 
 h)	What are the disadvantages of Merge Sort?
 
-
+extra space for arrays
+not adaptive
 
 4.	Sorting Algorithm Comparisons
 
 a)	For the random situations, which of the three algorithms (selection, insertion, or merge sort) is the fastest? Why? 
 
-
+when a lot of stuff
 
 b)	For the random situations, is selection sort slower or is insertion sort slower? Is it significantly slower or only a few lines slower?
 
-
+yes selection sort is prettyy slow
 
 c)	For the nearly sorted situations, which of the three algorithms is the fastest? Why? 
 
-
+The fastest would be that
 
 d)	For the nearly sorted situations, how does selection sort do compared with the other sorting algorithms? 
 
-
+The differences are very minimal
 
 e)	For the reversed situations, is selection sort slower or is insertion sort slower? Is it significantly slower or only a few lines slower?
 
-
+The selection sort is slower in the swaping of high amount
 
 f)	Does having only a few unique keys speed up any of the three algorithms? Is so, how much faster is it?
 
+Yes it does, becaus ethe algorithm changes
 
 
 g)	In what case(s) would you use Selection Sort over the other two sorting algorithms?
 
-
+Yes many diffrences in the sorting overall
 
 h)	In what case(s) would you use Insertion Sort over the other two sorting algorithms?
 
-
+During the random and nearly sorted
 
 i)	In what case(s) would you use Merge Sort over the other two sorting algorithms?
+
+During the randomness
 
 
 
@@ -172,31 +184,36 @@ Challenge Questions:
 Bubble Sort
 a)	For which of the four situations is Bubble Sort most efficient? Explain why.
 
+Really bad , how ever efficient in all four case.
 
 
 b)	How does changing the problem size affect each of the four situations?
 
-
+The input and output would changes
 
 c)	How does the Bubble Sort algorithm work? Explain.
+
+The bubble dort work by swapping the array next to the first oneq       
+
+
 
 
 
 d)	What do you see in the animation that helps you identify that the animation is showing Bubble Sort?
 
-
+The bubble dort work by swapping the array next to the first oneq 
 
 e)	How much extra space is needed for the Bubble Sort algorithm (using arrays)? Is this efficient use of space?
 
-
+The bubble dort work by swapping the array next to the first oneq 
 
 f)	How much time does Bubble Sort take? Use Big O notation.
 
-
+The bubble dort work by swapping the array next to the first oneq 
 
 g)	What are the advantages of Bubble Sort?
 
-
+The bubble dort work by swapping the array next to the first oneq 
 
 h)	What are the disadvantages of Bubble Sort?
 
@@ -210,27 +227,27 @@ a)	For which of the four situations is Quick Sort most efficient? Explain why.
 
 b)	How does changing the problem size affect each of the four situations?
 
-
+The bubble dort work by swapping the array next to the first oneq 
 
 c)	How does the Quick Sort algorithm work? Explain.
-
+The bubble dort work by swapping the array next to the first oneq 
 
 
 d)	What do you see in the animation that helps you identify that the animation is showing Quick Sort?
 
 
-
+The bubble dort work by swapping the array next to the first oneq 
 e)	How much extra space is needed for the Quick Sort algorithm (using arrays)? Is this efficient use of space?
 
-
+The bubble dort work by swapping the array next to the first oneq 
 
 f)	How much time does Quick Sort take? Use Big O notation.
 
-
+The bubble dort work by swapping the array next to the first oneq 
 
 g)	What are the advantages of Quick Sort?
 
-
+The bubble dort work by swapping the array next to the first oneq 
 
 h)	What are the disadvantages of Quick Sort?
-
+The bubble dort work by swapping the array next to the first oneq 
